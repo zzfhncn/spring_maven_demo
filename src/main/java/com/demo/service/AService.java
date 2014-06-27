@@ -6,10 +6,6 @@
 
 package com.demo.service;
 
-/**
- *
- * @author yaxin
- */
 public interface AService {
     public void fooA(String msg);
     public void barA();

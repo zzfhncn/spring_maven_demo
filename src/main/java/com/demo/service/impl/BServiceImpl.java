@@ -8,10 +8,6 @@ package com.demo.service.impl;
 
 import com.demo.service.BService;
 
-/**
- *
- * @author yaxin
- */
 public class BServiceImpl implements BService{
 
     @Override
